@@ -1,5 +1,5 @@
 package com.example.demo;
-
+/*
 import model.ReadExcelFile;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -11,7 +11,8 @@ public class DemoApplication {
 
 		SpringApplication.run(DemoApplication.class, args);
 		ReadExcelFile ref = new ReadExcelFile();
-		ref.getCellValue();
+		//ref.getCellValue();
 	}
 
 }
+*/
